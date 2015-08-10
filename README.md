@@ -17,3 +17,5 @@ Around 700,000 children die every year from diarrhea caused by unsafe water and 
 * Come up with a simple design that could be cheaply reproducible.
 * 
 
+### Notifications
+Twitter monitor account @Solar_purifier
