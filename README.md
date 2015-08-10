@@ -12,8 +12,12 @@ Around 700,000 children die every year from diarrhea caused by unsafe water and 
 | b) Flame-heated water pot with pasteurization indicator | 3 | 96 |
 | c) Solar Box Cooker with pasteurization indicator | 23 | 375 |
 
+### Data
+
+Contrary to what many people believe, it is not necessary to boil water to make it safe to drink. Also contrary to what many people believe, it is usually not necessary to distill water to make it safe to drink. Heating water to 65º C (149º F) will kill all germs, viruses, and parasites.3 This process is called pasteurization and its use for milk is well known. [cit][1]
+
 ### Design
-Based on [Heaven's Flame](http://solarcooking.wikia.com/wiki/Heaven's_Flame)
+Based on [Heaven's Flame][2]
 
 ### Primary Goals:
 * Heat 1 quart water to 149 degrees fahrenheit for 5 minutes.
@@ -28,3 +32,13 @@ Twitter monitor account [@Solar_purifier](http://twitter.com/solar_purifier)
 
     virtualenv venv
     pip install -r requirements.txt
+
+### Libraries
+
+Thermometer [3]
+
+
+[1]: (http://solarcooking.org/pasteurization/solarwat.htm) "A SUMMARY OF WATER PASTEURIZATION TECHNIQUES"
+[2]: (http://solarcooking.wikia.com/wiki/Heaven's_Flame) "Heaven's Flame"
+
+[3]: (http://www.raspberrypi-spy.co.uk/2013/03/raspberry-pi-1-wire-digital-thermometer-sensor/) "Raspberry Pi 1- Wire Digital Thermometer Sensor (DS18B20)"
