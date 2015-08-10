@@ -9,6 +9,8 @@ load_dotenv(dotenv_path)
 
 auth = os.environ.get('TWILIO_SID')
 token = os.environ.get('TWILIO_SECRET')
+to_phone = os.environ.get('TO_PHONE')
+from_phone = os.environ.get('FROM_PHONE')
 
 client = TwilioRestClient(auth,token)  
 msg = client.messages.create(to='', from_='', body="test")
