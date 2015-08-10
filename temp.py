@@ -12,5 +12,7 @@ token = os.environ.get('TWILIO_SECRET')
 to_phone = os.environ.get('TO_PHONE')
 from_phone = os.environ.get('FROM_PHONE')
 
+msg = 'this is a test'
+
 client = TwilioRestClient(auth,token)  
-msg = client.messages.create(to='', from_='', body="test")
+msg = client.messages.create(to=to_phone, from_=from_phone, body=msg)
