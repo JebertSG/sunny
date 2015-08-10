@@ -11,5 +11,4 @@ auth = os.environ.get('TWILIO_SID')
 token = os.environ.get('TWILIO_SECRET')
 
 client = TwilioRestClient(auth,token)  
-#msg = client.messages.create(to='+13036184688', from_='+13036184688', body="test")
-msg = client.messages.create(to='+19702909909', from_='+17209612457', body="test")
+msg = client.messages.create(to='', from_='', body="test")
