@@ -15,7 +15,7 @@ c) Solar Box Cooker with pasteurization indicator | 23 | 375
 
 ### Data
 
-Contrary to what many people believe, it is not necessary to boil water to make it safe to drink. Also contrary to what many people believe, it is usually not necessary to distill water to make it safe to drink. Heating water to 65º C (149º F) will kill all germs, viruses, and parasites.3 This process is called pasteurization and its use for milk is well known. [cit][1]
+Contrary to what many people believe, it is not necessary to boil water to make it safe to drink. Also contrary to what many people believe, it is usually not necessary to distill water to make it safe to drink. Heating water to 65º C (149º F) will kill all germs, viruses, and parasites.3 This process is called pasteurization and its use for milk is well known. [source][1]
 
 ### Design
 Based on [Heaven's Flame][2]
@@ -36,7 +36,7 @@ Twitter monitor account [@Solar_purifier][4]
 
 ### Libraries
 
-Thermometer [3]
+[Thermometer] [3]
 
 
 [1]: http://solarcooking.org/pasteurization/solarwat.htm "A SUMMARY OF WATER PASTEURIZATION TECHNIQUES"
