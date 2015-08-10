@@ -12,16 +12,19 @@ Around 700,000 children die every year from diarrhea caused by unsafe water and 
 | b) Flame-heated water pot with pasteurization indicator | 3 | 96 |
 | c) Solar Box Cooker with pasteurization indicator | 23 | 375 |
 
+### Design
+Based on [Heaven's Flame](http://solarcooking.wikia.com/wiki/Heaven's_Flame)
+
 ### Primary Goals:
 * Heat 1 quart water to 149 degrees fahrenheit for 5 minutes.
 * Come up with a simple design that could be cheaply reproducible.
 * 
 
 ### Notifications
-Twitter monitor account @Solar_purifier
+Twitter monitor account [@Solar_purifier](http://twitter.com/solar_purifier)
 
 
 ### Build it
 
-virtualenv venv
-pip install -r requirements.txt
+    virtualenv venv
+    pip install -r requirements.txt
