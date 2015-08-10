@@ -19,3 +19,9 @@ Around 700,000 children die every year from diarrhea caused by unsafe water and 
 
 ### Notifications
 Twitter monitor account @Solar_purifier
+
+
+### Build it
+
+virtualenv venv
+pip install -r requirements.txt
